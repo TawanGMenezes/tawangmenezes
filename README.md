@@ -14,7 +14,7 @@
 <code><img width="40" src="https://github.com/tawangmenezes/tawangmenezes/blob/main/imgs/HTML.svg" alt="HTML"></code>
 <code><img width="40" src="https://github.com/tawangmenezes/tawangmenezes/blob/main/imgs/CSS.svg" alt="CSS"></code>
 <code><img width="40" src="https://github.com/tawangmenezes/tawangmenezes/blob/main/imgs/JS.svg" alt="Javascript"></code>
-<code><img width="40" src="https://github.com/tawangmenezes/tawangmenzes/blob/main/imgs/git.svg" alt="Git"></code>
+<code><img width="40" src="https://github.com/tawangmenezes/tawangmenezes/blob/main/imgs/git.svg" alt="Git"></code>
 </div>
 
 <br>
