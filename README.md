@@ -23,7 +23,7 @@
 
 <div>
   <a href="https://github.com/tawangmenezes"></a>
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=tawangmenzes&show_icons=true&theme=dracula&hide_border=true"/>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=tawangmenezes&show_icons=true&theme=dracula&hide_border=true"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawangmenezes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
