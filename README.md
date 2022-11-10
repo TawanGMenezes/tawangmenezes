@@ -15,6 +15,7 @@
 <code><img width="40" src="https://github.com/tawangmenezes/tawangmenezes/blob/main/imgs/CSS.svg" alt="CSS"></code>
 <code><img width="40" src="https://github.com/tawangmenezes/tawangmenezes/blob/main/imgs/JS.svg" alt="Javascript"></code>
 <code><img width="40" src="https://github.com/tawangmenezes/tawangmenezes/blob/main/imgs/git.svg" alt="Git"></code>
+<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
 </div>
 
 <br>
