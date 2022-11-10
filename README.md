@@ -18,7 +18,16 @@
 </div>
 
 <br>
+## 🧠 Em andamento:
+<div>
+<code><img width="40" src="https://github.com/tawangmenezes/tawangmenezes/blob/main/imgs/HTML.svg" alt="HTML"></code>
+<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular"/></code>
+<code><img width="40" src="https://github.com/tawangmenezes/tawangmenezes/blob/main/imgs/CSS.svg" alt="CSS"></code>
+<code><img width="40" src="https://github.com/tawangmenezes/tawangmenezes/blob/main/imgs/JS.svg" alt="Javascript"></code>
+<code><img width="40" src="https://github.com/tawangmenezes/tawangmenezes/blob/main/imgs/git.svg" alt="Git"></code>
+</div>
 
+<br>
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> Minhas Estatisticas:
 
 <div>
