@@ -19,15 +19,15 @@
 
 <br>
   
-## ⚡ Tecnologias:
+## 🧠 Em progresso:
 <div>
 <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular"/></code>
 <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
 </div>
 
 <br>
+   
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> Minhas Estatisticas:
-
 <div>
   <a href="https://github.com/tawangmenezes"></a>
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=tawangmenezes&show_icons=true&theme=dark&hide_border=true"/>
