@@ -18,7 +18,7 @@
 </div>
 
 <br>
-## 🧠 Em andamento:
+##  🧠 Em andamento:
 <div>
 <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular"/></code>
 <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
