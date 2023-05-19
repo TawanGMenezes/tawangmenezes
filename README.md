@@ -17,6 +17,11 @@
 <code><img width="40" src="https://github.com/tawangmenezes/tawangmenezes/blob/main/imgs/git.svg" alt="Git"></code>
 <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
 <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular"/></code>
+<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt="Ionic"/></code>
+  
+  
+          
+          
 </div>
 
 <br>
