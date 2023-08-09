@@ -29,8 +29,8 @@
           
 ## 🧠 Em progresso:
 <div>
-<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" /></code>
-<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /></code>
+<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /></code>
+<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></code>
 </div>
 
 <br>
