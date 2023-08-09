@@ -3,7 +3,7 @@
 
 ## 👨🏻‍💻 Sobre mim:
 <li>💻  Sou Desenvolvedor Front-End
-<li>🌱 Atualmente aprimorando os conhecimentos em Angular e React.
+<li>🌱 Atualmente aprimorando os conhecimentos em Java e Spring
 <li>📫 Como me contatar: tawanmenezes@gmail.com
 
 <br>
