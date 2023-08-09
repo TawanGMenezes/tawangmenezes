@@ -38,9 +38,10 @@
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> Minhas Estatisticas:
 <div>
   <a href="https://github.com/tawangmenezes"></a>
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=tawangmenezes&show_icons=true&theme=dark&hide_border=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawangmenezes&layout=compact&langs_count=7&theme=dark"/>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=TawanGMenezes&show_icons=true&theme=dark&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TawanGMenezes&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
 
 <br>
 
