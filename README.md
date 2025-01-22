@@ -27,13 +27,7 @@
   
             
           
-## 🧠 Em progresso:
-<div>
-<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /></code>
-<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></code>
-</div>
 
-<br>
    
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> Minhas Estatisticas:
 <div>
